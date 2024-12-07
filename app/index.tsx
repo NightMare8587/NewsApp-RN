@@ -42,6 +42,8 @@ export default function index() {
 
         }
     }
+
+    
   return (
     <View style={styles.container}>
       <Text style={styles.titleTextStyle}>Welcome to Fatafat News</Text>
